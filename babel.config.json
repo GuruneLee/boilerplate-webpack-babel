@@ -1,0 +1,6 @@
+// ref
+// https://mine-it-record.tistory.com/503?category=1260998
+{
+    "presets": ["@babel/preset-env"],
+    "plugins": [["@babel/plugin-transform-runtime", {"corejs": 3}]]
+}
